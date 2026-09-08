@@ -21,10 +21,12 @@ graph TD
     P1["📚 Part 1: รากฐานและการค้นหาโอกาส"]
     P2["🏗️ Part 2: การออกแบบโมเดลธุรกิจและกลยุทธ์"]
     P3["🚀 Part 3: การขับเคลื่อนนวัตกรรมสู่ตลาดจริง"]
+    P4["🏆 Part 4: เล่มรายงานและการนำเสนอผลงาน"]
 
     ROOT --> P1
     ROOT --> P2
     ROOT --> P3
+    ROOT --> P4
 
     P1 --> L1["[[Lecture 1 - การเป็นผู้ประกอบการและผู้ประกอบการนวัตกรรม]]"]
     P1 --> L2["[[Lecture 2 - โอกาสและการประกอบการนวัตกรรม]]"]
@@ -35,10 +37,13 @@ graph TD
     P3 --> L5["[[Lecture 5 - กลยุทธ์ด้านนวัตกรรมและเทคโนโลยี]]"]
     P3 --> L6["[[Lecture 6 - การพัฒนาสินค้าและบริการนวัตกรรม]]"]
 
+    P4 --> L7["[[Final_Project_Report_and_Presentation_Guide|คู่มือส่งเล่มโปรเจกต์ & Pitching (8 หมวด & Smart Green Wall)]]"]
+
     style ROOT fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
     style P1 fill:#fff3e0,stroke:#f57c00
     style P2 fill:#f3e5f5,stroke:#7b1fa2
     style P3 fill:#c8e6c9,stroke:#388e3c
+    style P4 fill:#fce4ec,stroke:#c2185b
 ```
 
 ---
@@ -138,6 +143,18 @@ graph TD
   - สถาปัตยกรรมการออกแบบ: โมดูล (Module) vs การออกแบบโมดูลาร์ (Modular Design)
   - กระบวนการพัฒนาผลิตภัณฑ์ต้นแบบแบบวนซ้ำ (The Iterative Prototype Loop)
   - การสร้างภาพจำลองเหตุการณ์และการจำลองสถานการณ์ (Scenario & Simulation Mapping)
+
+---
+
+# 🏆 Part 4: รายงานโปรเจกต์และการนำเสนอ (Final Project Report & Pitching)
+
+คู่มือการจัดทำเล่มรายงานฉบับสมบูรณ์ 8 หัวข้อหลักตามเกณฑ์อาจารย์ผู้สอน พร้อมกำหนดการส่งงาน ไทม์ไลน์ และกรณีศึกษาจริงจากการสัมภาษณ์กลุ่มผู้ใช้ (Customer Discovery):
+
+- 🌟 **[[Final_Project_Report_and_Presentation_Guide|คู่มือจัดทำเล่มรายงานโปรเจกต์ 8 หัวข้อ & แนวทางการนำเสนอ Pitching]]**
+  - **กำหนดการส่งงาน:** ส่งไฟล์ PDF วันที่ 1 ต.ค. 2568 (ก่อน 12:00 น.) / ส่งเล่มจริง Hardcopy วันที่ 2 ต.ค. 2568 (ในคาบเรียน)
+  - **ไทม์ไลน์ Pitching:** นำเสนอในชั้นเรียน วันที่ 2 ต.ค. (กลุ่มชุดที่ 1) และ 9 ต.ค. 2568 (กลุ่มชุดที่ 2) กลุ่มละ 10 นาที + ถามตอบ 5 นาที
+  - **8 หัวข้อรายงานหลัก:** 1) Business Idea & Problem, 2) Vision & Mission, 3) Value Proposition, 4) Customer Segments & Persona, 5) Business Model Canvas (9 ช่องแบบละเอียด), 6) Marketing & Sales Strategy (4Ps), 7) Technology & Innovation Strategy (10 Tactics), 8) Risk Management & Mitigation
+  - **กรณีศึกษาการสัมภาษณ์จริง (Customer Discovery Case Study):** โปรเจกต์ **Smart Green Wall (กำแพงต้นไม้ฟอกอากาศอัจฉริยะ)** วิเคราะห์ Pain points คนเมือง, ออกแบบ 3 ขนาดผลิตภัณฑ์ (Small กรองฝุ่น 30%, Medium กรองฝุ่น 40%, Large กรองฝุ่น 60%), ระบบรดน้ำไฮโดรโปนิกส์อัตโนมัติ, เซนเซอร์ PM2.5, และการใช้พลังงานแสงอาทิตย์ (Solar-powered)
 
 ---
 
