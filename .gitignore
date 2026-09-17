@@ -5,3 +5,14 @@ Thumbs.db
 # Ignore temp files
 *.tmp
 *.log
+~$*.docx
+~$*.pptx
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore large reference sample files exceeding GitHub file limits
+Lectures/Project/ตัวอย่าง/
+Project_Smart_Queue_Food/crop*.png
