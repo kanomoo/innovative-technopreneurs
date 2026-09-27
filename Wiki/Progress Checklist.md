@@ -5,7 +5,7 @@ tags:
   - progress
   - checklist
 created: 2026-08-18
-updated: 2026-08-18
+updated: 2026-09-25
 type: checklist
 ---
 
@@ -28,6 +28,8 @@ type: checklist
   - สรุปครบ 26 สไลด์: First Mover vs Fast Follower, หุบเขาแห่งความตาย (Invention to Innovation), Window of Opportunity & Cycle of Urgency, กรณีศึกษา SVB, JetBlue, Starbucks, 3 หมวด 10 ยุทธวิธีนวัตกรรม (Configuration, Offering, Experience), กระบวนการ 4 ขั้นตอน, Disruptive Innovation (Netflix vs Blockbuster)
 - [x] **Lecture 6:** การพัฒนาสินค้าและบริการนวัตกรรม (`บทที่ 6 การพัฒนาสินค้าและบริการนวัตกรรม 1_69 (100869).pdf`)
   - สรุปครบ 40 สไลด์: จินตนาการสู่ความคิดสร้างสรรค์และนวัตกรรม, Innovation Engine 6 ทรัพยากร, วงจรความคิดสร้างสรรค์ 6 โหนด, 10 บทบาทนวัตกร (3 กลุ่ม), กลยุทธ์ระดมสมอง 7 Rights & กฎ 7 ข้อ, การออกแบบผลิตภัณฑ์ A-F, Robust Product, Usability Radar 5 มิติ, Modular Architecture, Prototype Iteration Loop, Scenario Simulation Mapping
+- [x] **Lecture 10:** รูปแบบธุรกิจและกฎหมายทรัพย์สินทางปัญญา (`บทที่ 10  รูปแบบธุรกิจและกฎหมายทรัพย์สินทางปัญญา 1_69 (250969).pdf`)
+  - สรุปครบ 33 สไลด์: โครงสร้างทางกฎหมายและภาษี (Sole Prop, Partnership, LLC, C-Corp), 5 รูปแบบกิจการใหม่, 4 โมเดลนวัตกรรมร่วมองค์กร (Opportunist, Enabler, Producer, Advocate), The Dream Team Architecture (Founders, Board of Directors, Advisory Board), ระบบกฎหมายทรัพย์สินทางปัญญาไทย 7 ฉบับ & TRIPS, สิทธิบัตร อนุสิทธิบัตร ลิขสิทธิ์ เครื่องหมายการค้า ความลับทางการค้า, กลไกสมดุลสิทธิเด็ดขาด (Compulsory Licensing & Exhaustion of Rights)
 
 ---
 *หมายเหตุ: ทุกบทสรุปตามมาตรฐานที่กำหนดไว้ใน `GEMINI.md` อย่างเคร่งครัด ทั้งการใช้ Mermaid Diagrams, Callouts, และการวิเคราะห์เชิงลึกแบบไม่มีการละเว้นสไลด์*

@@ -16,3 +16,6 @@ __pycache__/
 # Ignore large reference sample files exceeding GitHub file limits
 Lectures/Project/ตัวอย่าง/
 Project_Smart_Queue_Food/crop*.png
+
+# Ignore temporary scratch directory
+scratch/

@@ -22,15 +22,22 @@
 
 ```text
 innovative-technopreneurs/
-├── Project_Smart_Queue_Food/       # 🍔 แฟ้มเอกสารและสื่อนำเสนอโครงการ Smart Queue Food
-│   ├── รายงานโครงงาน_Smart_Queue_Food_ฉบับสมบูรณ์.pdf
-│   ├── สไลด์นำเสนอ_Smart_Queue_Food_Pitching.pdf
-│   ├── assets/                     # รูปภาพและแผนภาพประกอบ
-│   └── scripts/                    # สคริปต์ประกอบโครงการ
+├── 00_ไฟล์ส่งงาน_Smart_Queue_Food/ # 📦 โฟลเดอร์ส่งมอบงานทางการ (เล่มรายงาน, สไลด์ และสรุป)
+│   ├── 01_เล่มรายงาน_Smart_Queue_Food_ฉบับสมบูรณ์.docx
+│   ├── 01_เล่มรายงาน_Smart_Queue_Food_ฉบับสมบูรณ์.pdf
+│   ├── 02_สไลด์นำเสนอ_Smart_Queue_Food_Pitching.pptx
+│   ├── 02_สไลด์นำเสนอ_Smart_Queue_Food_Pitching.pdf
+│   └── README_คำอธิบายไฟล์ส่งงาน.txt
+│
+├── Project_Smart_Queue_Food/       # 🍔 แหล่งพัฒนาเอกสาร สคริปต์ และสื่อโครงการ
+│   ├── assets/                     # รูปภาพและแผนภาพประกอบความละเอียดสูง
+│   └── scripts/                    # สคริปต์ Two-Pass อัตโนมัติ (รายงาน & สไลด์)
 │
 ├── Lectures/                       # 📑 สไลด์และเอกสารประกอบการเรียนต้นฉบับ
+│   ├── Classroom_Transcripts/      # 🎙️ บันทึกบทถอดเสียงและข้อคิดเห็นสำคัญจากชั้นเรียน
+│   └── Project/                    # 📌 เอกสารเกณฑ์โครงงานและกำหนดการนำเสนอ
+│
 ├── Wiki/                           # 📖 คลังความรู้เชิงลึก (Obsidian Markdown Wiki)
-├── Transcripts/                    # 🎙️ บันทึกบทถอดเสียงและข้อคิดเห็นสำคัญจากชั้นเรียน
 └── GEMINI.md                       # 🤖 คู่มือและข้อกำหนดโครงสร้างความรู้สำหรับ AI
 ```
 
