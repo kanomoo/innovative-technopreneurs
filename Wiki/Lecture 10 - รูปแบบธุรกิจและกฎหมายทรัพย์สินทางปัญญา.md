@@ -703,4 +703,17 @@ graph TD
 - Dorf, R. C., & Byers, T. H. (2011). *Technology Ventures: From Idea to Enterprise*. New York: McGraw-Hill.
 
 ---
+
+### 🎙️ บันทึกเสียงการสอนและบทถอดความในห้องเรียน (Classroom Lecture Audio & Transcripts)
+- **วันที่บันทึก:** วันศุกร์ที่ 25 กันยายน 2569 (รวมความยาว 1 ชั่วโมง 30 นาที 37 วินาที)
+- **ไฟล์เสียงต้นฉบับ (คลังเสียง Master Audio):**
+  - Part 1: `C:\Project\voice-text\Success\20260925_093530.aac` (79m 33s)
+  - Part 2: `C:\Project\voice-text\Success\20260925_105917.aac` (11m 04s)
+- **บทวิเคราะห์เจาะลึกการบรรยาย (Deep-Dive Intelligence Report):**
+  - [Transcript_20260925_Business_Forms_CNV_Intellectual_Property.md](../Lectures/Classroom_Transcripts/Transcript_20260925_Business_Forms_CNV_Intellectual_Property.md)
+- **ไฟล์ถอดความคำต่อคำ 100% (Verbatim Transcripts):**
+  - [20260925_093530.txt (Part 1 - โครงสร้างองค์กร, ภาษีซ้ำซ้อน, 5 ธุรกิจ, CNV 4 โมเดล, สิทธิบัตร)](../Lectures/Classroom_Transcripts/20260925_093530.txt)
+  - [20260925_105917.txt (Part 2 - เครื่องหมายรับรอง, ความลับทางการค้า, Reverse Engineering, CL, Parallel Import)](../Lectures/Classroom_Transcripts/20260925_105917.txt)
+
+---
 *ลิงก์เชื่อมโยงที่เกี่ยวข้อง: [[Innovative Technopreneurs Index]] | [[Progress Checklist]] | [[Lecture 3 - วิสัยทัศน์ พันธกิจ และตัวแบบธุรกิจ]] | [[Lecture 5 - กลยุทธ์ด้านนวัตกรรมและเทคโนโลยี]] | [[Final Project Report and Presentation Guide]]*
