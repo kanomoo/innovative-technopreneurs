@@ -23,12 +23,14 @@ graph TD
     P3["🚀 Part 3: การขับเคลื่อนนวัตกรรมสู่ตลาดจริง"]
     P4["⚖️ Part 4: กฎหมาย ทรัพย์สินทางปัญญา และทีมงาน"]
     P5["🏆 Part 5: เล่มรายงานและการนำเสนอผลงาน"]
+    P6["🎯 Part 6: การสอบปลายภาค"]
 
     ROOT --> P1
     ROOT --> P2
     ROOT --> P3
     ROOT --> P4
     ROOT --> P5
+    ROOT --> P6
 
     P1 --> L1["[[Lecture 1 - การเป็นผู้ประกอบการและผู้ประกอบการนวัตกรรม]]"]
     P1 --> L2["[[Lecture 2 - โอกาสและการประกอบการนวัตกรรม]]"]
@@ -43,12 +45,15 @@ graph TD
 
     P5 --> L7["[[Final_Project_Report_and_Presentation_Guide|คู่มือส่งเล่มโปรเจกต์ & Pitching (8 หมวด & Smart Green Wall)]]"]
 
+    P6 --> L8["[[Final_Exam_Scope_and_Study_Guide|คู่มือแนวข้อสอบ Final (60 ข้อ ปรนัย 30 คะแนน)]]"]
+
     style ROOT fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
     style P1 fill:#fff3e0,stroke:#f57c00
     style P2 fill:#f3e5f5,stroke:#7b1fa2
     style P3 fill:#c8e6c9,stroke:#388e3c
     style P4 fill:#ede7f6,stroke:#512da8
     style P5 fill:#fce4ec,stroke:#c2185b
+    style P6 fill:#ffebee,stroke:#d32f2f
 ```
 
 ---
@@ -176,6 +181,28 @@ graph TD
   - **ไทม์ไลน์ Pitching:** นำเสนอในชั้นเรียน วันที่ 2 ต.ค. (กลุ่มชุดที่ 1) และ 9 ต.ค. 2568 (กลุ่มชุดที่ 2) กลุ่มละ 10 นาที + ถามตอบ 5 นาที
   - **8 หัวข้อรายงานหลัก:** 1) Business Idea & Problem, 2) Vision & Mission, 3) Value Proposition, 4) Customer Segments & Persona, 5) Business Model Canvas (9 ช่องแบบละเอียด), 6) Marketing & Sales Strategy (4Ps), 7) Technology & Innovation Strategy (10 Tactics), 8) Risk Management & Mitigation
   - **กรณีศึกษาการสัมภาษณ์จริง (Customer Discovery Case Study):** โปรเจกต์ **Smart Green Wall (กำแพงต้นไม้ฟอกอากาศอัจฉริยะ)** วิเคราะห์ Pain points คนเมือง, ออกแบบ 3 ขนาดผลิตภัณฑ์ (Small กรองฝุ่น 30%, Medium กรองฝุ่น 40%, Large กรองฝุ่น 60%), ระบบรดน้ำไฮโดรโปนิกส์อัตโนมัติ, เซนเซอร์ PM2.5, และการใช้พลังงานแสงอาทิตย์ (Solar-powered)
+
+---
+
+# 🎯 Part 6: การเตรียมตัวสอบปลายภาค (Final Examination Blueprint & Study Guide)
+
+แนวข้อสอบและระเบียบการสอบปลายภาคอย่างเป็นทางการ จากการบรรยายชี้แจงของอาจารย์ผู้สอน (9 ต.ค. 2569):
+
+- 🌟 **[[Final_Exam_Scope_and_Study_Guide|คู่มือเจาะลึกแนวข้อสอบปลายภาค 60 ข้อ ปรนัย (30 คะแนน) ครบ 6 บท]]**
+  - **วัน-เวลาสอบ:** **วันพุธที่ 28 ตุลาคม 2569 เวลา 09:00 – 12:00 น.** (เช้า 3 ชั่วโมงเต็ม)
+  - **รูปแบบข้อสอบ:** **ปรนัย (Multiple Choice / ชอยส์) ทั้งหมด 60 ข้อ** เก็บ 30 คะแนนเต็ม (ข้อละ 0.5 คะแนน)
+  - **ขอบเขต 6 บทเรียน:** **บทที่ 7 ถึง บทที่ 12**
+    1. *บทที่ 7: การตลาดสำหรับธุรกิจนวัตกรรม* (STP, Brand Equity, 4Ps, Crossing the Chasm, CRM)
+    2. *บทที่ 8: เรื่องราว แผนธุรกิจ และการจัดองค์กร* (5 ขั้นตอนตั้งกิจการใหม่, Storytelling, Business Plan vs BMC)
+    3. *บทที่ 9: ความรู้และการจัดการความรู้* (Explicit vs Tacit Knowledge, SECI Model, Learning Organization)
+    4. *บทที่ 10: รูปแบบธุรกิจและทรัพย์สินทางปัญญา* (Double Taxation, CNV 4 โมเดล, สิทธิบัตร 20 ปี, ลิขสิทธิ์ 50 ปี, เครื่องหมายการค้า, ความลับทางการค้า, CL, Parallel Import)
+    5. *บทที่ 11: ความเสี่ยงและความสำเร็จของธุรกิจ* (Risk vs Uncertainty, Risk Management Framework, จริยธรรม)
+    6. *บทที่ 12: การนำเสนอและการเจรจาต่อรอง* (Elevator Pitch, Pitch Deck, BATNA, ZOPA, Term Sheet)
+  - **ระเบียบการเข้าห้องสอบ:**
+    - **ปิดตำรา (Closed-book)** ห้ามนำเอกสารใดๆ เข้าห้องสอบ
+    - **ห้ามนำเครื่องคิดเลขเข้าห้องสอบ:** **ไม่มีการคำนวณเด็ดขาด** เน้นความเข้าใจ นิยาม คอนเซปต์
+    - **ภาษาในข้อสอบ:** ภาษาไทยเป็นหลัก ศัพท์เทคนิคมีวงเล็บภาษาอังกฤษกำกับ
+  - 🎙️ **คลังเสียงและบทถอดความในห้องเรียน:** [ไฟล์ถอดความคำต่อคำ (`20261009_100816.txt`)](../Lectures/Classroom_Transcripts/20261009_100816.txt) และ [บทวิเคราะห์เจาะลึกการชี้แจงข้อสอบ](../Lectures/Classroom_Transcripts/Transcript_20261009_Final_Exam_Scope_and_Guidelines.md)
 
 ---
 
